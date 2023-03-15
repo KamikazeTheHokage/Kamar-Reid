@@ -27,9 +27,9 @@
 <h2><B> What Are The Benefits Of Massage?</B> </h2>
 <img src="https://images.unsplash.com/photo-1598901986949-f593ff2a31a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1497&q=80![image](https://user-images.githubusercontent.com/127986150/225416267-c62e9ccd-478e-47f6-92f1-d3d5ea14e7c1.png)">
 
-<a
-href="https://www.mayoclinic.org/tests-procedures/massage-therapy/about/pac-20384595"</a>
-<p> Studies have shown that Massage is a very beneficial way of Improving one's quality of life and influencing an individual's mental health whilst performing beneficial progress to their physical as well. It does not only ease the pain and discomfort from  soft tissue injuries or overexertion but also:</p>
+<p>
+<a href= "https://www.mayoclinic.org/tests-procedures/massage-therapy/about/pac-20384595"</a>
+ Studies have shown that Massage is a very beneficial way of Improving one's quality of life and influencing an individual's mental health whilst performing beneficial progress to their physical as well. It does not only ease the pain and discomfort from  soft tissue injuries or overexertion but also:</p>
 <ul> 
 <li>Lessen Stress</li>
 <li>Improve the strength and work of the immune system</li>
